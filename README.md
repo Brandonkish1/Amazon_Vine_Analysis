@@ -23,3 +23,4 @@ BigMarket is doing an analysis for $ellby to compare the reveiws of their produc
 
 
 ## Summary
+The percent of 5 star reviews is around 7% higher in the paid reviewer population than the unpaid. I don't think there is a significant enough difference to imply review bias by the paid reviewers. It may be useful to also compare the 4 star reviews to get more data on if a bias exists.
